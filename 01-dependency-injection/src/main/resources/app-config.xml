@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean name="messageProvider" class="ch.fhnw.eaf.spring.ioc.WelcomeProvider" primary="true">
+    </bean>
+    <bean name="messageRenderer" class="ch.fhnw.eaf.spring.ioc.StandardOutRenderer" primary="true">
+        <constructor-arg index="0" ref="messageProvider"></constructor-arg>
+    </bean>
+</beans>

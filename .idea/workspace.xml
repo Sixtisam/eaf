@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0727c66d-e456-49a7-ba38-3bf6a8ef300e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/ConfigMessageProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/ConfigMessageProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/HelloWorldProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/HelloWorldProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/MessageConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/MessageConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/MessageProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/MessageProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/MessageRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/MessageRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/SpringIocApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/SpringIocApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/StandardErrorRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/StandardErrorRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/StandardOutRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/StandardOutRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/fhnw/eaf/spring/ioc/WelcomeProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/java/ch/fhnw/eaf/spring/ioc/WelcomeProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/resources/app-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch/fhnw/eaf/spring/ioc/SpringIocApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/test/java/ch/fhnw/eaf/spring/ioc/SpringIocApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch/fhnw/eaf/spring/ioc/StandardErrorRendererTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/test/java/ch/fhnw/eaf/spring/ioc/StandardErrorRendererTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch/fhnw/eaf/spring/ioc/StandardOutRendererTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/01-dependency-injection/src/test/java/ch/fhnw/eaf/spring/ioc/StandardOutRendererTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Q:\Programme\IntelliJ IDEA 2020.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hUc3Fi1DkvaSYtYmX5VDy0TFne" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/01-dependency-injection" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0727c66d-e456-49a7-ba38-3bf6a8ef300e" name="Default Changelist" comment="" />
+      <created>1600068913217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600068913217</updated>
+      <workItem from="1600068914937" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="454" key="FileChooserDialogImpl" timestamp="1600068940303">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="495" y="454" key="FileChooserDialogImpl/0.0.2560.1400/-1920.552.1920.1040@0.0.2560.1400" timestamp="1600068940303" />
+  </component>
+</project>
